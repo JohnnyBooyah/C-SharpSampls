@@ -1,0 +1,12 @@
+C:\Users\LabUser\Desktop\Kozma_BlackJack\Kozma_BlackJack\bin\Debug\Kozma_BlackJack.exe.config
+C:\Users\LabUser\Desktop\Kozma_BlackJack\Kozma_BlackJack\bin\Debug\Kozma_BlackJack.exe
+C:\Users\LabUser\Desktop\Kozma_BlackJack\Kozma_BlackJack\bin\Debug\Kozma_BlackJack.pdb
+C:\Users\LabUser\Desktop\Kozma_BlackJack\Kozma_BlackJack\obj\Debug\Kozma_BlackJack.csprojResolveAssemblyReference.cache
+C:\Users\LabUser\Desktop\Kozma_BlackJack\Kozma_BlackJack\obj\Debug\Kozma_BlackJack.exe
+C:\Users\LabUser\Desktop\Kozma_BlackJack\Kozma_BlackJack\obj\Debug\Kozma_BlackJack.pdb
+C:\Users\jonat\Desktop\Kozma_BlackJack\Kozma_BlackJack\bin\Debug\Kozma_BlackJack.exe.config
+C:\Users\jonat\Desktop\Kozma_BlackJack\Kozma_BlackJack\obj\Debug\Kozma_BlackJack.exe
+C:\Users\jonat\Desktop\Kozma_BlackJack\Kozma_BlackJack\obj\Debug\Kozma_BlackJack.pdb
+C:\Users\jonat\Desktop\Kozma_BlackJack\Kozma_BlackJack\bin\Debug\Kozma_BlackJack.exe
+C:\Users\jonat\Desktop\Kozma_BlackJack\Kozma_BlackJack\bin\Debug\Kozma_BlackJack.pdb
+C:\Users\jonat\Desktop\Kozma_BlackJack\Kozma_BlackJack\obj\Debug\Kozma_BlackJack.csprojResolveAssemblyReference.cache
